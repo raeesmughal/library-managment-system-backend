@@ -3,7 +3,6 @@
 - Admin login
 - Student login
 - Book records (CRUD)
-- Borrow/return system
 - User roles and permissions
 - MongoDB schemas with relations
 
